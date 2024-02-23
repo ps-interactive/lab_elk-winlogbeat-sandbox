@@ -17,4 +17,4 @@ New-Service -name winlogbeat `
 Try {
   Start-Process -FilePath sc.exe -ArgumentList 'config winlogbeat start= delayed-auto'
 }
-Catch { Write-Host -f red "An error occured setting the service to delayed start." }
+Catch { Write-Host -f red "An error occurred setting the service to delayed start." }

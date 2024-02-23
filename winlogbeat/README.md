@@ -1,4 +1,4 @@
-# Welcome to Winlogbeat 8.9.0
+# Welcome to Winlogbeat 8.12.2
 
 Winlogbeat ships Windows event logs to Elasticsearch or Logstash.
 
@@ -15,13 +15,13 @@ instance. To load the dashboards for Winlogbeat into Kibana, run:
     ./winlogbeat setup -e
 
 For further steps visit the
-[Quick start](https://www.elastic.co/guide/en/beats/winlogbeat/main/winlogbeat-installation-configuration.html) guide.
+[Quick start](https://www.elastic.co/guide/en/beats/winlogbeat/8.12/winlogbeat-installation-configuration.html) guide.
 
 ## Documentation
 
-Visit [Elastic.co Docs](https://www.elastic.co/guide/en/beats/winlogbeat/main/index.html)
+Visit [Elastic.co Docs](https://www.elastic.co/guide/en/beats/winlogbeat/8.12/index.html)
 for the full Winlogbeat documentation.
 
 ## Release notes
 
-https://www.elastic.co/guide/en/beats/libbeat/main/release-notes-8.9.0.html
+https://www.elastic.co/guide/en/beats/libbeat/8.12/release-notes-8.12.2.html
