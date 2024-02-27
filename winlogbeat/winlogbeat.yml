@@ -39,7 +39,7 @@ winlogbeat.event_logs:
   - name: ForwardedEvents
     tags: [forwarded]
   
-  - name: "Mirosoft-Windows-TaskScheduler/Operational"
+  - name: "Microsoft-Windows-TaskScheduler/Operational"
 
 
 # ====================== Elasticsearch template settings =======================
